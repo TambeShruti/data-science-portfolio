@@ -1,30 +1,25 @@
 # My Data Science Portfolio
 
-Welcome to my data science portfolio! This repository is hosted using GitHub Pages with the "architect" theme. You can view the live portfolio at [https://yourusername.github.io](https://yourusername.github.io).
+Hi, I'm Shruti Tambe, a software engineer and data scientist.
 
 ## About Me
-![Profile Image](assets/img/profile.jpg)
-I am a passionate data scientist with a strong background in [relevant fields]. I enjoy solving complex problems using data-driven approaches and have experience working on diverse projects. Here's a brief summary of my educational background, professional experience, and some personal interests.
 
 ## Education
 
-**Master of Science in Data Science**
-*University Name, City, State*
-*Graduation Year*
+**Master of Science in Information Systems**
+*Northeastern University, Boston, MA*
+*Expected May 2024*
 
-**Bachelor of Science in [Your Major]**
-*University Name, City, State*
-*Graduation Year*
+**Bachelor of Engineering in Computer Engineering**
+*Mumbai University, Mumbai, India*
+*June 2021*
 
 ## Experience
 
-**Data Scientist | Company Name | Location | Start Date - End Date**
+**Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022**
 
 - Describe your responsibilities and achievements in this role.
 
-**Research Assistant | University Name | Location | Start Date - End Date**
-
-- Outline your contributions and projects during your research assistant position.
 
 ## Projects
 
@@ -48,22 +43,22 @@ I am a passionate data scientist with a strong background in [relevant fields]. 
 
 ## Summary of Skills
 
-- **Programming Languages:** List languages like Python, R, etc.
-- **Data Analysis:** Describe your proficiency in data analysis tools and techniques.
-- **Machine Learning:** Highlight your skills in machine learning algorithms and frameworks.
-- **Database Management:** Mention any databases you're familiar with (e.g., SQL, MongoDB).
-- **Visualization:** Talk about your experience with tools like Matplotlib, Seaborn, or Tableau.
+- **Programming Languages:** Python, Java, R
+- **Data Analysis:** Exploratory Data Analysis, Correlation Matrix
+- **ML Frameworks:** TensorFlow, Keras, NLTK, OpenCV
+- **Database Management:** Postgresql, Oracle SQL, MongoDB
+- **Visualization:** Matplotlib, Seaborn, Tableau, Power-BI
 
 
 ## Contact
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/shrutitambe06/)
 - **Email:** your.email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub:** [Your GitHub Profile](https://github.com/TambeShruti)
 
 ## Acknowledgments
 
-Give credit to any third-party tools, libraries, or resources you used in your projects.
+Inspiration - Chip Huyen [Chip Huyen](https://huyenchip.com)
 
 ## License
 
