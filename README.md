@@ -52,9 +52,9 @@ Hi, I'm Shruti Tambe, a software engineer and data scientist.
 
 ## Contact
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/shrutitambe06/)
-- **Email:** your.email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/TambeShruti)
+- **LinkedIn:** [Shruti Tambe LinkedIn](https://www.linkedin.com/in/shrutitambe06/)
+- **Email:** Tambe.sh@northeastern.edu
+- **GitHub:** [GitHub Profile](https://github.com/TambeShruti)
 
 ## Acknowledgments
 
