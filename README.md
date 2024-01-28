@@ -3,7 +3,7 @@
 Welcome to my data science portfolio! This repository is hosted using GitHub Pages with the "architect" theme. You can view the live portfolio at [https://yourusername.github.io](https://yourusername.github.io).
 
 ## About Me
-![Profile Image](assets/img/profile.png)
+![Profile Image](assets/img/profile.jpg)
 I am a passionate data scientist with a strong background in [relevant fields]. I enjoy solving complex problems using data-driven approaches and have experience working on diverse projects. Here's a brief summary of my educational background, professional experience, and some personal interests.
 
 ## Education
