@@ -33,11 +33,11 @@ Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022
 - **Technologies Used:** Python, NLTK, Spacy, StreamLit, Transformers (BERT).
 - **Link to Project:** [Project 1](https://github.com/TambeShruti/BERT-Powered-Resume-Analysis-App)
 
-### Project 2: Title
-
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies, tools, and languages used.
-- **Link to Project:** [Project 2](link-to-project2)
+### Project 2: Michigan Lake Precipitation Prediction
+![Screenshot](./assets/img/lake.png)
+- **Description:** For my neural network course, my team and I built a ConvLSTM with encoder-decoder attention mechanism on satellite imagery and meteorological data to predict snowfall precipitation for the next 2days, achieved model performance F-1 score of 94%.
+- **Technologies Used:** TensorFlow, Keras, Deep Learning, Image Data Processing, RNN-LSTM, ConvLSTM, Attention Mechanism
+- **Link to Project:** [Project 2]([link-to-project2](https://github.com/TambeShruti/Michigan-Lake-Precipitation-Prediction/tree/main))
 
 ### Project 3: Title
 
