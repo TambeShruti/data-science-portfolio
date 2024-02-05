@@ -1,9 +1,5 @@
 # My Data Science Portfolio
 
-Hi, I'm pursuing a Masters in Information Systems at Northeastern University.
-
-As a Software Engineer, I bring expertise in Python, Java and SQL. Currently, I am looking for opportunities in data science.
-
 ## Projects
 
 ### BERT Powered Resume Analysis App
