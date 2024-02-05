@@ -1,6 +1,5 @@
 # My Data Science Portfolio
 ---
-## Projects
 
 ### BERT Powered Resume Analysis App
 ![Screenshot](./assets/img/bert.png)
@@ -23,6 +22,14 @@ For my neural network course, my team and I built a ConvLSTM with encoder-decode
 This project employs Random Forest Classifier, SVM, Logistic Regression to predict smoking status with a 84% accuracy(RF). Through in-depth data exploration, crucial features like gender and hemoglobin levels were identified as key influencers in the relationship between health indicators and smoking behaviors. This endeavor contributes valuable insights to enhance personalized health interventions and predictive analytics in healthcare.
 - **Technologies Used:** Exploratory Data Analysis, Data Visualization, Feature Engineering, Machine Learning, Outlier Detection, Model Evaluation using F-1 Score metric
 - **Link to Project:** [Project 3](https://github.com/TambeShruti/Bio-Signal-Analysis-for-smoking-prediction/blob/main/Binary%20Classification.ipynb)
+
+---
+
+### Hindi Text Generation
+![Screenshot3](./assets/img/hindi.jpeg)
+Led NLP data preprocessing, refining Hindi text for optimal model input. Integrated FastText embeddings for semantic nuances and contextual understanding. Developed a Recurrent Neural Network (RNN) for coherent Hindi text generation through trained preprocessing data. Implemented dynamic text generation for versatile and effective content creation based on user input or predefined contexts.
+- **Technologies Used:** Python, FastText, TensorFlow, NLTK, NLP, RNN, Data Pre-processing
+- **Link to Project:** [Project 4](https://github.com/TambeShruti/Neural-Networks/tree/main/Hindi%20Text%20Generation)
 
 ---
 
