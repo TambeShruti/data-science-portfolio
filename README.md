@@ -77,6 +77,6 @@ Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022
 
 Inspiration - Chip Huyen [Chip Huyen](https://huyenchip.com)
 
-## License
+
 
 This portfolio is licensed under the [MIT License](LICENSE).
