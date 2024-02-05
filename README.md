@@ -1,29 +1,8 @@
 # My Data Science Portfolio
 
-Hi, I'm Shruti Tambe, a software engineer and data scientist.
+Hi, I'm pursuing a Masters in Information Systems at Northeastern University.
 
-## About Me
-
-## Education
-
-**Master of Science in Information Systems**
-*Northeastern University, Boston, MA*
-*Expected May 2024*
-
-**Bachelor of Engineering in Computer Engineering**
-*Mumbai University, Mumbai, India*
-*June 2021*
-
-## Experience
-
-Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022
-
-- Built new features for a Java J2EE based banking software application in Agile methodology, resulting in a 20% increase in system functionality.
-- Performed SQL queries and data analysis on account opening client data, reducing production issues and improved query execution time by 15%, optimized overall system response time.
-- Added web UI to existing module, built a wizard for a form flow to engineer intuitive interfaces for user-friendly experience, decreasing common user defaults by 25%.
-- Implemented optimizations of CRs in process specific .war files of KYC document verification, incorporated JavaScript for dynamic validations, resulting in enhanced form functionality.
-- Collaborated with cross-functional teams, documented work, maintained code stability, corrected improperly coded loop, incorporated proactive problem solving of complex software issues efficiently.
-
+As a Software Engineer, I bring expertise in Python, Java and SQL. Currently, I am looking for opportunities in data science.
 
 ## Projects
 
@@ -52,6 +31,26 @@ This project employs Random Forest Classifier, SVM, Logistic Regression to predi
 - **ML Frameworks:** TensorFlow, Keras, NLTK, OpenCV, Pandas, NumPy, Matplotlib, Seaborn
 - **Database Management:** Postgresql, MySQL, Oracle SQL, MongoDB
 - **Tools:** Git, AWS, CI\CD, VS Code, Jupyter
+
+## Experience
+
+Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022
+
+- Built new features for a Java J2EE based banking software application in Agile methodology, resulting in a 20% increase in system functionality.
+- Performed SQL queries and data analysis on account opening client data, reducing production issues and improved query execution time by 15%, optimized overall system response time.
+- Added web UI to existing module, built a wizard for a form flow to engineer intuitive interfaces for user-friendly experience, decreasing common user defaults by 25%.
+- Implemented optimizations of CRs in process specific .war files of KYC document verification, incorporated JavaScript for dynamic validations, resulting in enhanced form functionality.
+- Collaborated with cross-functional teams, documented work, maintained code stability, corrected improperly coded loop, incorporated proactive problem solving of complex software issues efficiently.
+
+## Education
+
+**Master of Science in Information Systems**
+*Northeastern University, Boston, MA*
+*Expected May 2024*
+
+**Bachelor of Engineering in Computer Engineering**
+*Mumbai University, Mumbai, India*
+*June 2021*
 
 
 ## Contact
