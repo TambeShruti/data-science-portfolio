@@ -5,7 +5,7 @@
 ![Screenshot](./assets/img/bert.png)
 This project aims to develop a web application designed to assist individuals in enhancing their resumes. Leveraging advanced Natural Language Processing (NLP) techniques, the application analyzes resumes, suggests improvements, and provides answers to user queries based on the resume content. App Link - [Hugging Face Link](https://huggingface.co/spaces/sanjay11/resumesimilarity)
 - **Technologies Used:** Python, NLTK, Spacy, StreamLit, Transformers (BERT).
-- **Link to Project:** [Project 1](https://github.com/TambeShruti/BERT-Powered-Resume-Analysis-App)
+- **Link to Project:** [GitHub](https://github.com/TambeShruti/BERT-Powered-Resume-Analysis-App)
   
 ---
 
@@ -13,7 +13,7 @@ This project aims to develop a web application designed to assist individuals in
 ![Screenshot2](./assets/img/lake.png)
 For my neural network course, my team and I built a ConvLSTM with encoder-decoder attention mechanism on satellite imagery and meteorological data to predict snowfall precipitation for the next 2days, achieved model performance F-1 score of 94%.
 - **Technologies Used:** TensorFlow, Keras, Deep Learning, Image Data Processing, RNN-LSTM, ConvLSTM, Attention Mechanism
-- **Link to Project:** [Project 2](https://github.com/TambeShruti/Michigan-Lake-Precipitation-Prediction/tree/main)
+- **Link to Project:** [GitHub](https://github.com/TambeShruti/Michigan-Lake-Precipitation-Prediction/tree/main)
 
 ---
 
@@ -21,7 +21,7 @@ For my neural network course, my team and I built a ConvLSTM with encoder-decode
 ![Screenshot2](./assets/img/sig.png)
 This project employs Random Forest Classifier, SVM, Logistic Regression to predict smoking status with a 84% accuracy(RF). Through in-depth data exploration, crucial features like gender and hemoglobin levels were identified as key influencers in the relationship between health indicators and smoking behaviors. This endeavor contributes valuable insights to enhance personalized health interventions and predictive analytics in healthcare.
 - **Technologies Used:** Exploratory Data Analysis, Data Visualization, Feature Engineering, Machine Learning, Outlier Detection, Model Evaluation using F-1 Score metric
-- **Link to Project:** [Project 3](https://github.com/TambeShruti/Bio-Signal-Analysis-for-smoking-prediction/blob/main/Binary%20Classification.ipynb)
+- **Link to Project:** [GitHub](https://github.com/TambeShruti/Bio-Signal-Analysis-for-smoking-prediction/blob/main/Binary%20Classification.ipynb)
 
 ---
 
@@ -29,7 +29,7 @@ This project employs Random Forest Classifier, SVM, Logistic Regression to predi
 ![Screenshot3](./assets/img/hindi.jpeg)
 Led NLP data preprocessing, refining Hindi text for optimal model input. Integrated FastText embeddings for semantic nuances and contextual understanding. Developed a Recurrent Neural Network (RNN) for coherent Hindi text generation through trained preprocessing data. Implemented dynamic text generation for versatile and effective content creation based on user input or predefined contexts.
 - **Technologies Used:** Python, FastText, TensorFlow, NLTK, NLP, RNN, Data Pre-processing
-- **Link to Project:** [Project 4](https://github.com/TambeShruti/Neural-Networks/tree/main/Hindi%20Text%20Generation)
+- **Link to Project:** [GitHub](https://github.com/TambeShruti/Neural-Networks/tree/main/Hindi%20Text%20Generation)
 
 ---
 
