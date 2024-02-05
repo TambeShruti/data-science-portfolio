@@ -11,7 +11,7 @@ This project aims to develop a web application designed to assist individuals in
 
 ### Michigan Lake Precipitation Prediction
 ![Screenshot2](./assets/img/lake.png)
-For my neural network course, my team and I built a ConvLSTM with encoder-decoder attention mechanism on satellite imagery and meteorological data to predict snowfall precipitation for the next 2days, achieved model performance F-1 score of 94%.
+For my INFO6106 neural network course, my team and I built a ConvLSTM with encoder-decoder attention mechanism on satellite imagery and meteorological data to predict snowfall precipitation for the next 2days, achieved model performance F-1 score of 94%.
 - **Technologies Used:** TensorFlow, Keras, Deep Learning, Image Data Processing, RNN-LSTM, ConvLSTM, Attention Mechanism
 - **Link to Project:** [GitHub](https://github.com/TambeShruti/Michigan-Lake-Precipitation-Prediction/tree/main)
 
