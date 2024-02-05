@@ -47,11 +47,11 @@ Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022
 
 ## Summary of Skills
 
-- **Programming Languages:** Python, Java, R
-- **Data Analysis:** Exploratory Data Analysis, Correlation Matrix
-- **ML Frameworks:** TensorFlow, Keras, NLTK, OpenCV
-- **Database Management:** Postgresql, Oracle SQL, MongoDB
-- **Visualization:** Matplotlib, Seaborn, Tableau, Power-BI
+- **Programming Languages:** Python, Java, C++, JavaScript
+- **Data Science:** EDA, ETL, Hypothesis Testing, Supervised, Unsupervised ML, Deep Learning
+- **ML Frameworks:** TensorFlow, Keras, NLTK, OpenCV, Pandas, NumPy, Matplotlib, Seaborn
+- **Database Management:** Postgresql, MySQL, Oracle SQL, MongoDB
+- **Tools:** Git, AWS, CI\CD, VS Code, Jupyter
 
 
 ## Contact
