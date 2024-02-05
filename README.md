@@ -19,7 +19,7 @@ For my neural network course, my team and I built a ConvLSTM with encoder-decode
 ---
 
 ### Bio Signal Analysis for Smokers
-![Screenshot2](./assets/img/bio.png)
+![Screenshot2](./assets/img/sig.png)
 This project employs Random Forest Classifier, SVM, Logistic Regression to predict smoking status with a 84% accuracy(RF). Through in-depth data exploration, crucial features like gender and hemoglobin levels were identified as key influencers in the relationship between health indicators and smoking behaviors. This endeavor contributes valuable insights to enhance personalized health interventions and predictive analytics in healthcare.
 - **Technologies Used:** Exploratory Data Analysis, Data Visualization, Feature Engineering, Machine Learning, Outlier Detection, Model Evaluation using F-1 Score metric
 - **Link to Project:** [Project 3](https://github.com/TambeShruti/Bio-Signal-Analysis-for-smoking-prediction/blob/main/Binary%20Classification.ipynb)
