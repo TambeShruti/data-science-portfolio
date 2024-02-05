@@ -1,5 +1,5 @@
 # My Data Science Portfolio
-
+---
 ## Projects
 
 ### BERT Powered Resume Analysis App
@@ -7,19 +7,19 @@
 This project aims to develop a web application designed to assist individuals in enhancing their resumes. Leveraging advanced Natural Language Processing (NLP) techniques, the application analyzes resumes, suggests improvements, and provides answers to user queries based on the resume content. App Link - [Hugging Face Link](https://huggingface.co/spaces/sanjay11/resumesimilarity)
 - **Technologies Used:** Python, NLTK, Spacy, StreamLit, Transformers (BERT).
 - **Link to Project:** [Project 1](https://github.com/TambeShruti/BERT-Powered-Resume-Analysis-App)
-
+---
 ### Michigan Lake Precipitation Prediction
 ![Screenshot2](./assets/img/lake.png)
 For my neural network course, my team and I built a ConvLSTM with encoder-decoder attention mechanism on satellite imagery and meteorological data to predict snowfall precipitation for the next 2days, achieved model performance F-1 score of 94%.
 - **Technologies Used:** TensorFlow, Keras, Deep Learning, Image Data Processing, RNN-LSTM, ConvLSTM, Attention Mechanism
 - **Link to Project:** [Project 2](https://github.com/TambeShruti/Michigan-Lake-Precipitation-Prediction/tree/main)
-
+---
 ### Bio Signal Analysis for Smokers
 ![Screenshot2](./assets/img/bio.png)
 This project employs Random Forest Classifier, SVM, Logistic Regression to predict smoking status with a 84% accuracy(RF). Through in-depth data exploration, crucial features like gender and hemoglobin levels were identified as key influencers in the relationship between health indicators and smoking behaviors. This endeavor contributes valuable insights to enhance personalized health interventions and predictive analytics in healthcare.
 - **Technologies Used:** Exploratory Data Analysis, Data Visualization, Feature Engineering, Machine Learning, Outlier Detection, Model Evaluation using F-1 Score metric
 - **Link to Project:** [Project 3](https://github.com/TambeShruti/Bio-Signal-Analysis-for-smoking-prediction/blob/main/Binary%20Classification.ipynb)
-
+---
 ## Summary of Skills
 
 - **Programming Languages:** Python, Java, C++, JavaScript
