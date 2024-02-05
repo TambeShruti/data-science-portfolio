@@ -16,9 +16,13 @@ Hi, I'm Shruti Tambe, a software engineer and data scientist.
 
 ## Experience
 
-**Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022**
+Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022
 
-- Describe your responsibilities and achievements in this role.
+- Built new features for a Java J2EE based banking software application in Agile methodology, resulting in a 20% increase in system functionality.
+- Performed SQL queries and data analysis on account opening client data, reducing production issues and improved query execution time by 15%, optimized overall system response time.
+- Added web UI to existing module, built a wizard for a form flow to engineer intuitive interfaces for user-friendly experience, decreasing common user defaults by 25%.
+- Implemented optimizations of CRs in process specific .war files of KYC document verification, incorporated JavaScript for dynamic validations, resulting in enhanced form functionality.
+- Collaborated with cross-functional teams, documented work, maintained code stability, corrected improperly coded loop, incorporated proactive problem solving of complex software issues efficiently.
 
 
 ## Projects
