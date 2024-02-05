@@ -28,7 +28,7 @@ Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022
 ## Projects
 
 ### Project 1: BERT Powered Resume Analysis App
-
+![Screenshot](./assets/img/bert.png)
 - **Description:** This project aims to develop a web application designed to assist individuals in enhancing their resumes. Leveraging advanced Natural Language Processing (NLP) techniques, the application analyzes resumes, suggests improvements, and provides answers to user queries based on the resume content. App Link - [Hugging Face Link](https://huggingface.co/spaces/sanjay11/resumesimilarity)
 - **Technologies Used:** Python, NLTK, Spacy, StreamLit, Transformers (BERT).
 - **Link to Project:** [Project 1](https://github.com/TambeShruti/BERT-Powered-Resume-Analysis-App)
