@@ -47,11 +47,13 @@ Led NLP data preprocessing, refining Hindi text for optimal model input. Integra
 
 Software Engineer | Newgen Software | Mumbai, India | June 2021 - May 2022
 
-- Built new features for a Java J2EE based banking software application in Agile methodology, resulting in a 20% increase in system functionality.
-- Performed SQL queries and data analysis on account opening client data, reducing production issues and improved query execution time by 15%, optimized overall system response time.
-- Added web UI to existing module, built a wizard for a form flow to engineer intuitive interfaces for user-friendly experience, decreasing common user defaults by 25%.
-- Implemented optimizations of CRs in process specific .war files of KYC document verification, incorporated JavaScript for dynamic validations, resulting in enhanced form functionality.
-- Collaborated with cross-functional teams, documented work, maintained code stability, corrected improperly coded loop, incorporated proactive problem solving of complex software issues efficiently.
+-	Built a custom utility for Yes Bank account opening software application, utilizing Java, J2EE, reduced manual work by 20%
+-	Developed a frontend portal to track status of all the pending files at the user department through reports, utilizing MS SQL database for backend
+-	Added UI to existing module, designed a wizard for a form flow for user friendly experience, decreasing common user defaults by 25%
+-	Optimized complex SQL queries, extracted discrepancies in records, and improved query execution time by 15%, optimized overall system response time
+-	Implemented CRs (change requests) in process specific .war files, incorporated JavaScript for dynamic validations, resulting in enhanced form functionality
+-	Collaborated with cross-functional teams, documented work, maintained code stability, corrected improperly coded loop, incorporated proactive problem solving of complex software issues efficiently
+
 
 ---
 
